@@ -43,7 +43,7 @@ A modern, interactive quiz application built with React and Vite. Test your know
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/quizzical.git
+   git clone https://github.com/tayyab-dev-official/Quizzical.git
    cd quizzical
    ```
 
@@ -58,7 +58,7 @@ A modern, interactive quiz application built with React and Vite. Test your know
    ```
 
 4. **Open your browser**
-   Navigate to `http://localhost:5173`
+   Navigate to `https://keshf-quizzical.netlify.app/`
 
 ### Building for Production
 
