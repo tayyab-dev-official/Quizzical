@@ -133,7 +133,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - [Open Trivia Database](https://opentdb.com/) for providing the quiz questions
-- [Scrimba](https://scrimba.com/) for the learning platform and project inspiration
 - React and Vite teams for the amazing development tools
 
 ## 📞 Contact
