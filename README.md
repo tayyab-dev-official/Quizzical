@@ -17,7 +17,7 @@ A modern, interactive quiz application built with React and Vite. Test your know
 
 ## 🚀 Live Demo
 
-[View Live Demo](# "Add your deployed link here")
+[View Live Demo](https://keshf-quizzical.netlify.app/)
 
 ## 📷 Screenshots
 
@@ -58,7 +58,7 @@ A modern, interactive quiz application built with React and Vite. Test your know
    ```
 
 4. **Open your browser**
-   Navigate to `https://keshf-quizzical.netlify.app/`
+   Navigate to `http://localhost:5173`
 
 ### Building for Production
 

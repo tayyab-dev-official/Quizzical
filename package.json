@@ -7,13 +7,13 @@
   "keywords": ["react", "vite", "quiz", "trivia", "education", "interactive"],
   "author": "Your Name <your.email@example.com>",
   "license": "MIT",
-  "homepage": "https://github.com/yourusername/quizzical#readme",
+  "homepage": "https://keshf-quizzical.netlify.app/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/quizzical.git"
+    "url": "git+https://github.com/tayyab-dev-official/quizzical.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/quizzical/issues"
+    "url": "https://github.com/tayyab-dev-official/quizzical/issues"
   },
   "scripts": {
     "dev": "vite",
