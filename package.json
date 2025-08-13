@@ -1,8 +1,20 @@
 {
   "name": "quizzical",
-  "private": true,
-  "version": "0.0.0",
+  "private": false,
+  "version": "1.0.0",
+  "description": "A modern, interactive quiz application built with React and Vite",
   "type": "module",
+  "keywords": ["react", "vite", "quiz", "trivia", "education", "interactive"],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/quizzical#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/quizzical.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/quizzical/issues"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
