@@ -2,7 +2,7 @@
   "name": "quizzical",
   "private": false,
   "version": "1.0.0",
-  "description": "A modern, interactive quiz application built with React and Vite",
+  "description": "🧠 Interactive quiz app with trivia questions - Built with React & Vite",
   "type": "module",
   "keywords": ["react", "vite", "quiz", "trivia", "education", "interactive"],
   "author": "Your Name <your.email@example.com>",
