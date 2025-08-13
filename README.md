@@ -2,10 +2,6 @@
 
 A modern, interactive quiz application built with React and Vite. Test your knowledge with trivia questions from various categories!
 
-![Quizzical Preview](https://img.shields.io/badge/Status-In%20Development-yellow)
-![React](https://img.shields.io/badge/React-19.1.0-blue)
-![Vite](https://img.shields.io/badge/Vite-Latest-purple)
-
 ## ✨ Features
 
 - 🎯 **Interactive Quiz Interface** - Clean, user-friendly design
@@ -57,7 +53,7 @@ A modern, interactive quiz application built with React and Vite. Test your know
    ```
 
 4. **Open your browser**
-   Navigate to `http://localhost:5173`
+   Navigate to `http://localhost:{port-number}`
 
 ### Building for Production
 
@@ -137,9 +133,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Tayyab - [@tayyab-dev-official](https://github.com/tayyab-dev-official)
-
-Project Link: [https://github.com/tayyab-dev-official/Quizzical](https://github.com/tayyab-dev-official/Quizzical)
+GitHub - [@tayyab-dev-official](https://github.com/tayyab-dev-official)
+LinkedIn: [Mohammad Tayyab](https://www.linkedin.com/in/mohammad-tayyab-91ba5236b/)
+Email: tayyab.professional.official@gmail.com
 
 ---
 
