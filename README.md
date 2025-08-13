@@ -44,7 +44,7 @@ A modern, interactive quiz application built with React and Vite. Test your know
 1. **Clone the repository**
    ```bash
    git clone https://github.com/tayyab-dev-official/Quizzical.git
-   cd quizzical
+   cd Quizzical
    ```
 
 2. **Install dependencies**
@@ -138,9 +138,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
+Tayyab - [@tayyab-dev-official](https://github.com/tayyab-dev-official)
 
-Project Link: [https://github.com/yourusername/quizzical](https://github.com/yourusername/quizzical)
+Project Link: [https://github.com/tayyab-dev-official/Quizzical](https://github.com/tayyab-dev-official/Quizzical)
 
 ---
 
