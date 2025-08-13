@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+
 - Interactive quiz interface with multiple-choice questions
 - Integration with Open Trivia Database API
 - Responsive design with blob animations
@@ -15,11 +16,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Flexible button layout that adapts to content length
 
 ### Changed
+
 - Updated button styling to prevent text overflow
 - Improved CSS grid layout for quiz options
 - Enhanced error handling for API requests
 
 ### Fixed
+
 - HTML entities now properly decode in quiz questions and answers
 - Button heights are consistent across all options
 - Text wrapping works correctly for long answer options
@@ -27,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.0] - 2025-08-13
 
 ### Added
+
 - Initial project setup with React and Vite
 - Basic quiz application structure
 - CSS styling with custom properties
@@ -34,6 +38,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Complete documentation suite
 
 ### Dependencies
+
 - React 19.1.0
 - Vite (latest)
 - he (HTML entity decoder)

@@ -42,17 +42,20 @@ A modern, interactive quiz application built with React and Vite. Test your know
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/tayyab-dev-official/Quizzical.git
    cd Quizzical
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Start the development server**
+
    ```bash
    npm run dev
    ```
@@ -110,6 +113,7 @@ quizzical/
 ## 🎨 Styling
 
 The application features:
+
 - Custom CSS with modern design principles
 - Responsive grid layout for quiz options
 - Smooth animations and transitions

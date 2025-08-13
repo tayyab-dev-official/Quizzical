@@ -4,7 +4,14 @@
   "version": "1.0.0",
   "description": "🧠 Interactive quiz app with trivia questions - Built with React & Vite",
   "type": "module",
-  "keywords": ["react", "vite", "quiz", "trivia", "education", "interactive"],
+  "keywords": [
+    "react",
+    "vite",
+    "quiz",
+    "trivia",
+    "education",
+    "interactive"
+  ],
   "author": "Your Name <your.email@example.com>",
   "license": "MIT",
   "homepage": "https://keshf-quizzical.netlify.app/",

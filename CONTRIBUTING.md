@@ -43,17 +43,20 @@ Thank you for your interest in contributing to Quizzical! We welcome contributio
 #### Making Changes
 
 1. **Create a new branch** for your feature/fix:
+
    ```bash
    git checkout -b feature/amazing-feature
    ```
 
 2. **Follow the coding standards**:
+
    - Use meaningful variable and function names
    - Add comments for complex logic
    - Follow the existing code style
    - Run ESLint: `npm run lint`
 
 3. **Test your changes**:
+
    - Test manually in the browser
    - Ensure no console errors
    - Test on different screen sizes
